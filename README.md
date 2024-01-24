@@ -1,4 +1,4 @@
-# Aplicatvo do tempo
+# Aplicativo do tempo
 
 Este é um aplicativo de tempo simples desenvolvido com HTML, CSS e JavaScript, que utiliza uma API de previsão do tempo.
 
